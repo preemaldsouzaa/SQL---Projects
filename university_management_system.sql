@@ -335,3 +335,16 @@ where courses.professor_id is null;
 select courses.course_name, count(enrollments.student_id) as total_students
 from courses left join enrollments on courses.course_id = enrollments.course_id
 where courses.department_id=1 group by courses.course_id;
+
+#update Salary of a Professor:
+update professors set salary=salary+5000 where professor_id=3;
+
+#Change Department for a Specific Student:
+update students set department_id=4 where student_id=9;
+
+#Update Enrollment Date of a Student:
+update enrollments set enrollment_date='2023-07-01'
+where student_id=9;
+
+#Change Email Id for a specific professor:
+update professors set email='newemail@example.com' where professor_id=6;
