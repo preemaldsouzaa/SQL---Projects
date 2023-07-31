@@ -1,4 +1,4 @@
-# SQL---Projects
+# University Management System--using SQL
 
 ## Introduction:
 
