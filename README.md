@@ -1,5 +1,7 @@
 # University Management System--using SQL
 
+Welcome to the University Management System project, a significant endeavor undertaken as part of my Bachelor of Commerce, major in Computer Systems & Applications program. This project aims to revolutionize the administrative and academic processes within educational institutions, contributing to a more streamlined and efficient university experience.
+
 ## Introduction:
 
 The University Management System is a comprehensive and efficient database-driven application aimed at streamlining the administrative processes within a university setting. The project addresses the challenges faced by traditional manual systems in managing student records, professor information, course details, and enrollment data. By implementing this system, the university can enhance its organization, data accuracy, and overall efficiency.
