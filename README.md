@@ -1,4 +1,5 @@
 # University Management System--using SQL
+![SMU_Admin_Building](https://github.com/preemaldsouzaa/University-Management-System---SQL/assets/117831091/bdd6c01f-0260-4763-a1c5-deeb27602bb0)
 
 Welcome to the University Management System project, a significant endeavor undertaken as part of my Bachelor of Commerce, major in Computer Systems & Applications program. This project aims to revolutionize the administrative and academic processes within educational institutions, contributing to a more streamlined and efficient university experience.
 
@@ -40,6 +41,13 @@ The database for the University Management System comprises several interconnect
 
 5. **Enrollments**: Stores enrollment information, including ID, student ID, course ID, and enrollment date.
 Queries and Functionality:
+
+## Project Setup
+The setup for this project has been done by the following ways:
+
+1. **Database Creation**: The database, named "university_management_system," had been successfully created.
+2. **Table Creation**: I had created all the necessary tables by executing the SQL script provided.
+3. **Sample Data Insertion**: I had also populated the tables with sample data using the SQL script. This data includes student and professor details, course information, and department data for reference and testing.
 
 ## Retrieving Information:
 You can retrieve details about students, professors, courses, departments, and enrollments through various SELECT queries.
